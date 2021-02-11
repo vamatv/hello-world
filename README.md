@@ -1,2 +1,2 @@
 # hello-world
-just getting a hand of it
+just getting a hang of it. It's getting better
